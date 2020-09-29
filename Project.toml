@@ -1,0 +1,9 @@
+name = "MolProperties"
+uuid = "6c5b062b-a5bf-4e4d-8b59-ec4b92e67f33"
+authors = ["soyukke <soyukke@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+TransMol = "400eb3ac-1b4e-418f-ba1c-5867e795783b"
