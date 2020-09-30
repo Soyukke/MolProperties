@@ -1,5 +1,5 @@
 module MolProperties
 
-greet() = print("Hello World!")
+include("penalized-logp.jl")
 
 end # module
